@@ -1,0 +1,13 @@
+.env
+.venv
+.DS_Store
+.idea/
+
+bm25_db
+chroma_db
+chroma_db_cosine
+
+.~ *
+results/.~examples.xlsx
+results/.~results_eval_ragas.xlsx
+
